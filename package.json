@@ -1,0 +1,33 @@
+{
+  "name": "humminbird-repo-nodejs",
+  "version": "1.0.0",
+  "description": "For testing SRM with CVE & CWE",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/Humming-Bird-Alpha-Org/HumminBird-Repo-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/Humming-Bird-Alpha-Org/HumminBird-Repo-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humming-Bird-Alpha-Org/HumminBird-Repo-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "partha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@fastify/reply-from": "^12.3.0",
+    "@strapi/plugin-email": "^4.5.4",
+    "astro": "^5.15.7",
+    "axios": "^1.7.1",
+    "mailgen": "^2.0.1",
+    "nodemailer": "^7.0.1",
+    "sassdoc-extras": "^2.0.0",
+    "toggle-array": "^1.0.0"
+  }
+}

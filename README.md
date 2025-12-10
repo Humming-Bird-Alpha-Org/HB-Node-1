@@ -16,8 +16,13 @@
 
 ## Vulnerabilities Introduced - 
 
-24 vulnerabilities (3 low, 7 moderate, 6 high, 8 critical)
+### v.0.2: 
 
+- 33 vulnerabilities (4 low, 8 moderate, 12 high, 9 critical)
+    - added `elliptic@6.0.0` - <https://github.com/advisories/GHSA-49q7-c7j4-3p7m>
+    - added `express@3.1.1` - <https://github.com/advisories/GHSA-jj78-5fmv-mv28>
+
+- v.0.1: 24 vulnerabilities (3 low, 7 moderate, 6 high, 8 critical)
 
 ### @fastify/reply-from  <=12.4.0
 Severity: moderate

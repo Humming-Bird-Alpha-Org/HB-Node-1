@@ -1,4 +1,4 @@
-# HumminBird-Repo-nodejs
+# HumminBird NodeJs Project - SRM e2e - PR
 
 ## code quality issues that CodeQL will detect:
 
